@@ -924,3 +924,4 @@ server.headersTimeout = 65000;
 
 // Prevenir que el proceso termine
 process.stdin.resume();
+module.exports = app;
